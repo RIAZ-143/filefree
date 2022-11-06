@@ -6,4 +6,4 @@ os.system('termux-setup-storage')
 
 import filefree
 
-filefree.login()
+filefree.mr.riaz()
